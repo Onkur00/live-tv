@@ -1,5 +1,5 @@
 {
-  "name": "Bangla Live TV Player",
+  "name": "Live TV",
   "description": "A high-performance modern web application for watching live TV streams, including Bangla and international satellite channels, with keyboard/remote navigation, instant search, search highlights, and real-time user activity simulation.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
